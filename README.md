@@ -9,7 +9,7 @@ gTTS(text, "com", lang).write_to_fp(fp)
 encoded_audio_data = base64.b64encode(fp.getvalue())
 ```
 ### 이미지
-![david](./ky-codyssey-main/Codyseey/david/static/david.jpg)
+![david](./david/static/david.jpg)
 
 
 
